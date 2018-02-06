@@ -8,3 +8,5 @@ Merging changes to master
 Adding a hotfix
 
 T-101 update
+
+RUN NG BUILD
